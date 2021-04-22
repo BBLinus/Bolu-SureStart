@@ -8,5 +8,5 @@
 
 
 This repo showcases my 6-week learning experience as a [SureStart](https://mysurestart.com/) Machine Learning trainee Spring Cohort 2021.
-I was exposed to deep learning techniques including Convolutional Neural Networks (CNNs) and Autoencoders among others.
+I was exposed to concepts in ML including Neural Networks (CNNs, RNNs, GANs), Computer Vision, Natural Langauge Processing among others.
 Please find in the [wiki](https://github.com/BBLinus/Bolu-SureStart/wiki) an account of my daily experience during the program.
